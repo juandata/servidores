@@ -1,0 +1,141 @@
+[Thu Jun 22 17:18:19.394983 2017] [ssl:warn] [pid 5836:tid 532] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 17:18:20.449038 2017] [ssl:warn] [pid 5836:tid 532] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 17:18:20.877076 2017] [mpm_winnt:notice] [pid 5836:tid 532] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Thu Jun 22 17:18:20.877076 2017] [mpm_winnt:notice] [pid 5836:tid 532] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Thu Jun 22 17:18:20.877076 2017] [core:notice] [pid 5836:tid 532] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Thu Jun 22 17:18:20.907066 2017] [mpm_winnt:notice] [pid 5836:tid 532] AH00418: Parent: Created child process 4732
+[Thu Jun 22 17:18:24.835298 2017] [ssl:warn] [pid 4732:tid 500] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 17:18:25.662335 2017] [ssl:warn] [pid 4732:tid 500] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 17:18:25.848365 2017] [mpm_winnt:notice] [pid 4732:tid 500] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 22 17:19:10.539914 2017] [mpm_winnt:notice] [pid 5836:tid 532] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 22 17:19:12.543039 2017] [mpm_winnt:notice] [pid 4732:tid 500] AH00364: Child: All worker threads have exited.
+[Thu Jun 22 17:19:12.762033 2017] [mpm_winnt:notice] [pid 5836:tid 532] AH00430: Parent: Child process 4732 exited successfully.
+[Thu Jun 22 17:19:19.419424 2017] [ssl:warn] [pid 8912:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 17:19:20.307484 2017] [ssl:warn] [pid 8912:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 17:19:20.426483 2017] [mpm_winnt:notice] [pid 8912:tid 528] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Thu Jun 22 17:19:20.426483 2017] [mpm_winnt:notice] [pid 8912:tid 528] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Thu Jun 22 17:19:20.426483 2017] [core:notice] [pid 8912:tid 528] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Thu Jun 22 17:19:20.450482 2017] [mpm_winnt:notice] [pid 8912:tid 528] AH00418: Parent: Created child process 5436
+[Thu Jun 22 17:19:24.283705 2017] [ssl:warn] [pid 5436:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 17:19:25.108740 2017] [ssl:warn] [pid 5436:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 17:19:25.222748 2017] [mpm_winnt:notice] [pid 5436:tid 492] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 22 18:04:21.336092 2017] [mpm_winnt:notice] [pid 8912:tid 528] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 22 18:04:23.398597 2017] [mpm_winnt:notice] [pid 5436:tid 492] AH00364: Child: All worker threads have exited.
+[Thu Jun 22 18:04:27.476743 2017] [mpm_winnt:notice] [pid 8912:tid 528] AH00430: Parent: Child process 5436 exited successfully.
+[Thu Jun 22 18:09:08.256342 2017] [ssl:warn] [pid 2220:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 18:09:09.942683 2017] [ssl:warn] [pid 2220:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 18:09:38.802114 2017] [mpm_winnt:notice] [pid 2220:tid 528] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Thu Jun 22 18:09:38.802114 2017] [mpm_winnt:notice] [pid 2220:tid 528] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Thu Jun 22 18:09:38.802114 2017] [core:notice] [pid 2220:tid 528] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Thu Jun 22 18:09:39.005247 2017] [mpm_winnt:notice] [pid 2220:tid 528] AH00418: Parent: Created child process 2952
+[Thu Jun 22 18:09:46.380252 2017] [ssl:warn] [pid 2952:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 18:09:46.755247 2017] [ssl:warn] [pid 2952:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 18:09:47.474011 2017] [mpm_winnt:notice] [pid 2952:tid 492] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 22 18:21:48.542176 2017] [mpm_winnt:notice] [pid 2220:tid 528] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 22 18:21:50.839059 2017] [mpm_winnt:notice] [pid 2952:tid 492] AH00364: Child: All worker threads have exited.
+[Thu Jun 22 18:21:51.714055 2017] [mpm_winnt:notice] [pid 2220:tid 528] AH00430: Parent: Child process 2952 exited successfully.
+[Thu Jun 22 19:35:25.896664 2017] [ssl:warn] [pid 2212:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 19:35:27.459163 2017] [ssl:warn] [pid 2212:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 19:35:52.756086 2017] [mpm_winnt:notice] [pid 2212:tid 536] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Thu Jun 22 19:35:52.756086 2017] [mpm_winnt:notice] [pid 2212:tid 536] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Thu Jun 22 19:35:52.756086 2017] [core:notice] [pid 2212:tid 536] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Thu Jun 22 19:35:52.771712 2017] [mpm_winnt:notice] [pid 2212:tid 536] AH00418: Parent: Created child process 4916
+[Thu Jun 22 19:35:55.115467 2017] [ssl:warn] [pid 4916:tid 484] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 19:35:55.881095 2017] [ssl:warn] [pid 4916:tid 484] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 22 19:35:56.052969 2017] [mpm_winnt:notice] [pid 4916:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 23 21:29:40.308960 2017] [ssl:warn] [pid 2416:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 23 21:29:42.387091 2017] [core:warn] [pid 2416:tid 564] AH00098: pid file C:/Bitnami/wampstack-7.0.20-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jun 23 21:29:42.762083 2017] [ssl:warn] [pid 2416:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 23 21:30:33.121565 2017] [mpm_winnt:notice] [pid 2416:tid 564] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Fri Jun 23 21:30:33.121565 2017] [mpm_winnt:notice] [pid 2416:tid 564] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Fri Jun 23 21:30:33.121565 2017] [core:notice] [pid 2416:tid 564] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Fri Jun 23 21:30:33.449682 2017] [mpm_winnt:notice] [pid 2416:tid 564] AH00418: Parent: Created child process 4564
+[Fri Jun 23 21:31:02.012241 2017] [ssl:warn] [pid 4564:tid 500] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 23 21:31:03.277863 2017] [ssl:warn] [pid 4564:tid 500] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 23 21:31:04.309118 2017] [mpm_winnt:notice] [pid 4564:tid 500] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 23 21:54:20.636675 2017] [mpm_winnt:notice] [pid 2416:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 23 21:54:22.667927 2017] [mpm_winnt:notice] [pid 4564:tid 500] AH00364: Child: All worker threads have exited.
+[Fri Jun 23 21:54:32.591110 2017] [mpm_winnt:notice] [pid 2416:tid 564] AH00430: Parent: Child process 4564 exited successfully.
+[Fri Jun 23 21:56:08.542206 2017] [ssl:warn] [pid 2088:tid 552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 23 21:56:09.276583 2017] [ssl:warn] [pid 2088:tid 552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 23 21:56:18.604737 2017] [mpm_winnt:notice] [pid 2088:tid 552] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Fri Jun 23 21:56:18.604737 2017] [mpm_winnt:notice] [pid 2088:tid 552] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Fri Jun 23 21:56:18.604737 2017] [core:notice] [pid 2088:tid 552] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Fri Jun 23 21:56:18.620352 2017] [mpm_winnt:notice] [pid 2088:tid 552] AH00418: Parent: Created child process 3104
+[Fri Jun 23 21:56:24.385987 2017] [ssl:warn] [pid 3104:tid 480] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 23 21:56:25.182865 2017] [ssl:warn] [pid 3104:tid 480] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 23 21:56:25.245366 2017] [mpm_winnt:notice] [pid 3104:tid 480] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 26 16:00:26.681940 2017] [ssl:warn] [pid 1284:tid 444] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 16:00:27.462904 2017] [core:warn] [pid 1284:tid 444] AH00098: pid file C:/Bitnami/wampstack-7.0.20-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 26 16:00:27.648336 2017] [ssl:warn] [pid 1284:tid 444] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 16:00:30.065235 2017] [mpm_winnt:notice] [pid 1284:tid 444] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Mon Jun 26 16:00:30.065235 2017] [mpm_winnt:notice] [pid 1284:tid 444] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Mon Jun 26 16:00:30.065235 2017] [core:notice] [pid 1284:tid 444] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Mon Jun 26 16:00:30.065235 2017] [mpm_winnt:notice] [pid 1284:tid 444] AH00418: Parent: Created child process 2980
+[Mon Jun 26 16:00:31.362110 2017] [ssl:warn] [pid 2980:tid 480] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 16:00:32.362114 2017] [ssl:warn] [pid 2980:tid 480] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 16:00:32.393363 2017] [mpm_winnt:notice] [pid 2980:tid 480] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 26 16:23:27.876446 2017] [ssl:warn] [pid 2044:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 16:23:28.157695 2017] [core:warn] [pid 2044:tid 588] AH00098: pid file C:/Bitnami/wampstack-7.0.20-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 26 16:23:30.438948 2017] [ssl:warn] [pid 2044:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 16:23:45.601812 2017] [mpm_winnt:notice] [pid 2044:tid 588] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Mon Jun 26 16:23:45.601812 2017] [mpm_winnt:notice] [pid 2044:tid 588] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Mon Jun 26 16:23:45.617441 2017] [core:notice] [pid 2044:tid 588] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Mon Jun 26 16:23:45.617441 2017] [mpm_winnt:notice] [pid 2044:tid 588] AH00418: Parent: Created child process 3956
+[Mon Jun 26 16:23:47.117429 2017] [ssl:warn] [pid 3956:tid 484] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 16:23:47.508056 2017] [ssl:warn] [pid 3956:tid 484] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 16:23:47.539305 2017] [mpm_winnt:notice] [pid 3956:tid 484] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 26 18:55:00.479531 2017] [ssl:warn] [pid 1364:tid 496] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 18:55:01.127612 2017] [core:warn] [pid 1364:tid 496] AH00098: pid file C:/Bitnami/wampstack-7.0.20-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 26 18:55:01.352139 2017] [ssl:warn] [pid 1364:tid 496] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 18:55:04.248620 2017] [mpm_winnt:notice] [pid 1364:tid 496] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Mon Jun 26 18:55:04.248620 2017] [mpm_winnt:notice] [pid 1364:tid 496] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Mon Jun 26 18:55:04.248620 2017] [core:notice] [pid 1364:tid 496] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Mon Jun 26 18:55:04.248620 2017] [mpm_winnt:notice] [pid 1364:tid 496] AH00418: Parent: Created child process 3176
+[Mon Jun 26 18:55:06.764246 2017] [ssl:warn] [pid 3176:tid 408] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 18:55:07.545508 2017] [ssl:warn] [pid 3176:tid 408] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 18:55:07.576764 2017] [mpm_winnt:notice] [pid 3176:tid 408] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 26 20:29:49.724517 2017] [ssl:warn] [pid 1368:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 20:29:50.146813 2017] [core:warn] [pid 1368:tid 580] AH00098: pid file C:/Bitnami/wampstack-7.0.20-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 26 20:29:50.412438 2017] [ssl:warn] [pid 1368:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 20:29:50.553065 2017] [mpm_winnt:notice] [pid 1368:tid 580] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Mon Jun 26 20:29:50.553065 2017] [mpm_winnt:notice] [pid 1368:tid 580] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Mon Jun 26 20:29:50.553065 2017] [core:notice] [pid 1368:tid 580] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Mon Jun 26 20:29:50.568690 2017] [mpm_winnt:notice] [pid 1368:tid 580] AH00418: Parent: Created child process 3016
+[Mon Jun 26 20:29:52.354036 2017] [ssl:warn] [pid 3016:tid 476] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 20:29:53.338412 2017] [ssl:warn] [pid 3016:tid 476] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 20:29:53.369667 2017] [mpm_winnt:notice] [pid 3016:tid 476] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 26 20:35:09.289243 2017] [ssl:warn] [pid 1680:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 20:35:12.933225 2017] [core:warn] [pid 1680:tid 548] AH00098: pid file C:/Bitnami/wampstack-7.0.20-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 26 20:35:13.417600 2017] [ssl:warn] [pid 1680:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 20:35:56.369006 2017] [mpm_winnt:notice] [pid 1680:tid 548] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Mon Jun 26 20:35:56.369006 2017] [mpm_winnt:notice] [pid 1680:tid 548] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Mon Jun 26 20:35:56.369006 2017] [core:notice] [pid 1680:tid 548] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Mon Jun 26 20:36:01.681525 2017] [mpm_winnt:notice] [pid 1680:tid 548] AH00418: Parent: Created child process 4436
+[Mon Jun 26 20:36:43.344731 2017] [ssl:warn] [pid 4436:tid 484] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 20:36:44.235358 2017] [ssl:warn] [pid 4436:tid 484] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 20:36:49.766621 2017] [mpm_winnt:notice] [pid 4436:tid 484] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 26 22:23:40.788101 2017] [mpm_winnt:notice] [pid 1680:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 26 22:23:42.868205 2017] [mpm_winnt:notice] [pid 4436:tid 484] AH00364: Child: All worker threads have exited.
+[Mon Jun 26 22:23:43.374237 2017] [mpm_winnt:notice] [pid 1680:tid 548] AH00430: Parent: Child process 4436 exited successfully.
+[Mon Jun 26 22:35:27.738704 2017] [ssl:warn] [pid 3820:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 22:35:28.196819 2017] [ssl:warn] [pid 3820:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 22:35:28.595198 2017] [mpm_winnt:notice] [pid 3820:tid 572] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Mon Jun 26 22:35:28.595198 2017] [mpm_winnt:notice] [pid 3820:tid 572] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Mon Jun 26 22:35:28.595198 2017] [core:notice] [pid 3820:tid 572] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Mon Jun 26 22:35:28.605193 2017] [mpm_winnt:notice] [pid 3820:tid 572] AH00418: Parent: Created child process 5872
+[Mon Jun 26 22:35:29.946281 2017] [ssl:warn] [pid 5872:tid 364] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 22:35:30.273226 2017] [ssl:warn] [pid 5872:tid 364] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 26 22:35:30.311230 2017] [mpm_winnt:notice] [pid 5872:tid 364] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 27 02:04:58.030932 2017] [mpm_winnt:notice] [pid 3820:tid 572] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 27 02:05:01.859003 2017] [mpm_winnt:notice] [pid 5872:tid 364] AH00364: Child: All worker threads have exited.
+[Tue Jun 27 02:05:07.447743 2017] [mpm_winnt:notice] [pid 3820:tid 572] AH00430: Parent: Child process 5872 exited successfully.
+[Tue Jun 27 14:17:11.900206 2017] [ssl:warn] [pid 1068:tid 508] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 27 14:17:12.764914 2017] [ssl:warn] [pid 1068:tid 508] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 27 14:17:13.046165 2017] [mpm_winnt:notice] [pid 1068:tid 508] AH00455: Apache/2.4.23 (Win64) OpenSSL/1.0.2h PHP/7.0.20 configured -- resuming normal operations
+[Tue Jun 27 14:17:13.046165 2017] [mpm_winnt:notice] [pid 1068:tid 508] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Tue Jun 27 14:17:13.046165 2017] [core:notice] [pid 1068:tid 508] AH00094: Command line: 'C:\\Bitnami\\WAMPST~1.20-\\apache2\\bin\\httpd.exe -d C:/Bitnami/wampstack-7.0.20-0/apache2 -f C:\\Bitnami\\WAMPST~1.20-\\apache2\\conf\\httpd.conf'
+[Tue Jun 27 14:17:13.061791 2017] [mpm_winnt:notice] [pid 1068:tid 508] AH00418: Parent: Created child process 2960
+[Tue Jun 27 14:17:14.445298 2017] [ssl:warn] [pid 2960:tid 472] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 27 14:17:15.005374 2017] [ssl:warn] [pid 2960:tid 472] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 27 14:17:15.036624 2017] [mpm_winnt:notice] [pid 2960:tid 472] AH00354: Child: Starting 64 worker threads.
